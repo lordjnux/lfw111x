@@ -1,6 +1,6 @@
 # lfw111x
 
-Códigos del curso: Introduction to Node.js (LFW111) Ofrecido gratuitamente por The Linux Foundation.
+Códigos del curso: Introduction to Node.js (LFW111) Ofrecido gratuitamente por [The Linux Foundation](https://trainingportal.linuxfoundation.org/courses/introduction-to-nodejs-lfw111x).
 
 ## The purpose of course
 
